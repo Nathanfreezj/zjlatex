@@ -1,0 +1,26 @@
+\contentsline {section}{\numberline {1}引言}{5}{section.1}%
+\contentsline {section}{\numberline {2}研究方法}{8}{section.2}%
+\contentsline {subsection}{\numberline {2.1}核心概念界定}{8}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}研究设计}{9}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}文献检索与筛选}{9}{subsection.2.3}%
+\contentsline {subsubsection}{\numberline {2.3.1}检索策略设计与预试验证}{9}{subsubsection.2.3.1}%
+\contentsline {subsubsection}{\numberline {2.3.2}第一轨：核心概念广度检索 (Broad Conceptual Search)}{10}{subsubsection.2.3.2}%
+\contentsline {subsubsection}{\numberline {2.3.3}第二轨：特定主题精准检索与关键词系统化扩展 (Specific Thematic Search)}{11}{subsubsection.2.3.3}%
+\contentsline {subsubsection}{\numberline {2.3.4}文献整合、补充与筛选}{11}{subsubsection.2.3.4}%
+\contentsline {subsubsection}{\numberline {2.3.5}筛选过程与质量控制}{12}{subsubsection.2.3.5}%
+\contentsline {subsubsection}{\numberline {2.3.6}筛选严格性与样本充分性论证}{13}{subsubsection.2.3.6}%
+\contentsline {subsection}{\numberline {2.4}从编码到构念：理论框架的归纳构建}{13}{subsection.2.4}%
+\contentsline {section}{\numberline {3}解构HWT资源基础：康养旅游二元战略资源框架}{15}{section.3}%
+\contentsline {subsection}{\numberline {3.1}理论考古：供给端的"竖井"林立与需求端的"范式趋同"}{17}{subsection.3.1}%
+\contentsline {subsubsection}{\numberline {3.1.1}供给端研究的"竖井化"：只见树木，不见森林}{17}{subsubsection.3.1.1}%
+\contentsline {subsubsection}{\numberline {3.1.2}需求端研究的"范式趋同"：千篇一律的解释框架}{19}{subsubsection.3.1.2}%
+\contentsline {subsection}{\numberline {3.2}从拼图到框架：构建康养旅游二元战略资源框架}{20}{subsection.3.2}%
+\contentsline {section}{\numberline {4}重构价值创造过程：一个整合性的"资源--体验--价值"（REV）模型}{22}{section.4}%
+\contentsline {section}{\numberline {5}讨论}{24}{section.5}%
+\contentsline {subsection}{\numberline {5.1}理论贡献}{24}{subsection.5.1}%
+\contentsline {subsection}{\numberline {5.2}实践意义：一个基于REV模型的三阶段战略审计工具}{25}{subsection.5.2}%
+\contentsline {subsection}{\numberline {5.3}局限性与未来研究方向}{25}{subsection.5.3}%
+\contentsline {subsubsection}{\numberline {5.3.1}议程一：从模型到测量——实证检验REV模型的内在机制}{25}{subsubsection.5.3.1}%
+\contentsline {subsubsection}{\numberline {5.3.2}议程二：从静态匹配到动态能力——探究资源基础的演化与重构}{26}{subsubsection.5.3.2}%
+\contentsline {subsubsection}{\numberline {5.3.3}议程三：从价值创造到价值共毁——探究资源开发的“双刃剑”效应}{26}{subsubsection.5.3.3}%
+\contentsline {section}{\numberline {6}结论}{26}{section.6}%
